@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Dan
+# Hey! 👋 I'm Dan
 
 🎓 Foundation Year student at Northumbria University, working towards BSc Computer Science
 
