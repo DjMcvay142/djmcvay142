@@ -10,7 +10,6 @@ Foundation Year student in Computing & Information Technology at Northumbria Uni
 
 - Programming Fundamentals 
 - Foundational Mathematics 
-- UX Design Fundamentals
 - Version Control With Git
 
 ## 🛠️ Technologies & Tools
