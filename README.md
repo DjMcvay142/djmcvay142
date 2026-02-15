@@ -7,11 +7,11 @@ Currently learning foundational mathematics, programming embedded systems, and i
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
 ### Software
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github" />
 </p>
