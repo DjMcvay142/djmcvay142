@@ -1,8 +1,8 @@
 # Hey! 👋 I'm Dan
 
-Foundation Year student at Northumbria University, working towards BSc Computer Science
+First Year student at Northumbria University, studying Computer Science
 
-Currently learning foundational mathematics, programming embedded systems, and information systems basics. 
+Currently learning foundational mathematics, computing fundamentals, AI fundamentals, and computational thinking techniques. 
 
 ### Languages
 
